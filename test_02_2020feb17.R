@@ -29,9 +29,6 @@
 # 3 - Make tables of evaluations of eDNA replicates analysed in qPCR
 #   set ups. With categories assigned from ealier inferred 
 #   limit of detection (LOD) and limit of quantification (LOQ).
-# 4 - Plot of sampling locations on maps, for each species,
-#   with indication of eDNA intensity for each location monitored, 
-#   and with interpolation of eDNA levels between sampled locations
 
 
 #################################################################################
