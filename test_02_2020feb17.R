@@ -1,4 +1,5 @@
-
+#!/usr/bin/env Rscript
+# -*- coding: utf-8 -*-
 
 #################################################################################
 #
@@ -29,6 +30,8 @@
 # 3 - Make tables of evaluations of eDNA replicates analysed in qPCR
 #   set ups. With categories assigned from ealier inferred 
 #   limit of detection (LOD) and limit of quantification (LOQ).
+#
+#
 
 
 #################################################################################
