@@ -2,7 +2,7 @@
 ## Plot eDNA levels on map 
 
 
-# Code developed during NISAR project (2019-2020) by Steen W. Knudsen at NIVA-DK
+## Code developed during NISAR project (2019-2020) by Steen W. Knudsen at NIVA-DK
 ####### R code for analysing filtered and extracted eDNA samples collected by the Danish environmental agency (Miløstyrelsen) (MST) over 2017-2018.
 
 ####### The water samples collected by MST are to be analysed for eDNA levels from 20 non indeginuous marine species in Danish seas.
